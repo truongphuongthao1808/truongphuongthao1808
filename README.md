@@ -1,5 +1,5 @@
 # Hi there, I'm Thao Truong 👋
----
+
 Aspiring product builder with a foundation in business analysis, user research, and digital education. I’m driven by a deep curiosity about human behavior and a commitment to empathizing with users — uncovering their real pain points to craft solutions that are not just functional, but meaningful.
 
 ## 💼 What I do
@@ -18,7 +18,7 @@ Aspiring product builder with a foundation in business analysis, user research, 
 - **UI/UX Design** (Wireframing, Prototyping with Figma)
 - **Agile/Scrum** methodologies
 
-## 📫 How to reach me
+## 📫 My Contact
 - Email: thaotruong.workplace.gmail.com
 - LinkedIn: [linkedin.com/inthaophtruong/](https://www.linkedin.com/in/thaophtruong/)
 
